@@ -46,7 +46,7 @@ The dataset contains video sequences of individuals performing five distinct ges
    The video data should be preprocessed by extracting frames from the videos. Each video is converted into a sequence of frames, resized, and normalized before being passed into the model.
 
 2. **Model Training:**
-   To train the model, open the Jupyter notebook `Gesture_Recognition.ipynb` and execute the cells in sequence. The notebook includes detailed steps for:
+   To train the model, open the Jupyter notebook `Gesture_Recognition_assignment.ipynb` and execute the cells in sequence. The notebook includes detailed steps for:
    - Loading and preprocessing the data.
    - Defining the Conv3D architecture.
    - Training and evaluating the model.
